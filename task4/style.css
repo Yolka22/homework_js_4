@@ -1,0 +1,17 @@
+#news_general{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.news-container {
+    width: 300px;
+    margin: 0 auto;
+  }
+
+  .news-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }

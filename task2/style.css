@@ -1,0 +1,23 @@
+.gallery {
+    text-align: center;
+  }
+
+  .image {
+    width: 400px;
+    height: 300px;
+    margin-bottom: 10px;
+  }
+
+  .buttons {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .button {
+    margin: 0 5px;
+  }
+
+  .button[disabled] {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }

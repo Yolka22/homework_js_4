@@ -1,0 +1,10 @@
+.accordion{
+    cursor: pointer;
+    border: 2px dashed #ccc;
+    padding: 15px;
+}
+
+.content{
+    max-height: 0;
+    overflow: hidden;
+}
